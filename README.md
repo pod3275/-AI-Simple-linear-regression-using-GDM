@@ -38,6 +38,7 @@
  - 결과
    - 파라미터의 initial point는 random 설정.
    - n = learning rate = 0.5로 설정.
+   - 5번의 반복된 실험 수행. (아래는 3개의 결과만을 표시)
    - 첫 번째  
      ![image](https://user-images.githubusercontent.com/26705935/40695836-010d8cdc-63fe-11e8-93c3-7547e7520e7f.png)
      
