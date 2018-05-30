@@ -1,1 +1,1 @@
-# -AI-Simple-linear-regression-using-GDM
+# Simple-linear-regression-using-GDM
