@@ -1,6 +1,8 @@
 # Simple-linear-regression-using-GDM
  - 2018년 1학기 성균관대학교 이지형 교수님 머신러닝 수업 1, 2번째 과제
- - 간단한 linear regression 문제
+ - 간단한 linear regression 문제를 Gradient Descent Method를 이용하여 해결하는 문제
+ - 2018 1st semester Sungkyunkwan University Professor Jee Hyong Lee's Machine Learning class
+ - Solving simple linear regression problems using the gradient descent method
 
 ## 1. Problem
  - 다음 데이터를 최선으로 만족하는 모델을 제시하라.
